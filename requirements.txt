@@ -22,7 +22,6 @@ constantly==15.1.0
 cryptography==36.0.1
 daphne==3.0.2
 DateTime==4.3
-dbus-python==1.2.16
 Deprecated==1.2.13
 distro==1.4.0
 Django==4.0.3

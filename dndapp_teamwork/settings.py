@@ -40,7 +40,7 @@ INSTALLED_APPS = [
     'chat',
     'channels',
     'charsheets',
-    'crispy_forms',
+    'crispy-forms',
     'account',
     'home',
     'request',

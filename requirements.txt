@@ -25,7 +25,6 @@ DateTime==4.3
 dbus-python==1.2.16
 Deprecated==1.2.13
 distro==1.4.0
-distro-info===0.23ubuntu1
 Django==4.0.3
 django-channels==0.7.0
 django-crispy-forms==1.14.0
